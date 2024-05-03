@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertSanjaya88
+- 👋 Hi, I’m Albert Sanjaya
 - 👀 I’m interested in coding (preferably about game designs)
 - 🌱 I’m currently learning C, Java, Python
 - 💞️ I’m looking to collaborate on ...
