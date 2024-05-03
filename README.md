@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertSanjaya88
-- 👀 I’m interested in coding (preferably about game designs)
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning C, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
